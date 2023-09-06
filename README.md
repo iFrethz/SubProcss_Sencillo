@@ -7,3 +7,7 @@ Creación de un subproceso basado en el ejercicio 3 "Edades"
 ● Facilidad de mantenimiento
 ● Mejora de la legibilidad
 ● Modularización de código
+
+Loader.java (Iniciador) - SubProcss.java (Codigo Base)
+
+Creación de un subproceso basado en el ejercicio 3 "Edades"
