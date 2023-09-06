@@ -10,4 +10,6 @@ Creación de un subproceso basado en el ejercicio 3 "Edades"
 
 Loader.java (Iniciador) - SubProcss.java (Codigo Base)
 
+  Este sistema es de prueba se ejecutara facilmente sin el loader
+
 Creación de un subproceso basado en el ejercicio 3 "Edades"
